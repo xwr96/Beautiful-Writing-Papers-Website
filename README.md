@@ -7,5 +7,5 @@
 
 
 ## 最后
-
+如果觉得我的分享对你有用，那么就Star一下吧～同时，也欢迎大家关注我的微信公众号：计算机视觉cv。我会一如既往发布更多更好的文章给大家！一起学习，共同进步！
 ![](https://github.com/xwr96/Beautiful-Writing-Papers-Website/blob/master/image/微信公众号.jpg)
