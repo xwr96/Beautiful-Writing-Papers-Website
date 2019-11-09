@@ -6,7 +6,7 @@
 跟前面的谷歌学术差不多的功能，不过这个多了几个镜像网站，防止其他网站被封了。学术搜索有10个镜像，网页搜索也有10个镜像，真是太良心了有木有！也可以上谷歌搜索国内搜不到的文章、资料等。\
 **3、[Linggle](https://linggle.com)**\
 Linggle 搜索引擎是一个可用于英语写作的语法、句子工具，可帮助学习者分析更准确的英文写作建议，能够根据词性来推测短句和句子，可精准的分享出完整英文句子如何撰写。这对于写英文paper很有帮助。如下图所示：\
-https://github.com/xwr96/Beautiful-Writing-Papers-Website/blob/master/image/1.jpg)\
+![](https://github.com/xwr96/Beautiful-Writing-Papers-Website/blob/master/image/1.jpg)\
 **4、[Netspeak](https://netspeak.org)**\
 跟前面的网站是一样的，也是英文的标准语法句子这些，写文章的时候可以查下标准的英文语法怎么写\
 **5、[Semantic Scholar](https://www.semanticscholar.org)**\
