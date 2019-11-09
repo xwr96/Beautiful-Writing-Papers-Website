@@ -8,6 +8,10 @@
 Linggle 搜索引擎是一个可用于英语写作的语法、句子工具，可帮助学习者分析更准确的英文写作建议，能够根据词性来推测短句和句子，可精准的分享出完整英文句子如何撰写。这对于写英文paper很有帮助\
 **4、[Netspeak](https://netspeak.org)**\
 跟前面的网站是一样的，也是英文的标准语法句子这些，写文章的时候可以查下标准的英文语法怎么写\
+**5、[Semantic Scholar](https://www.semanticscholar.org)**\
+Semantic Scholar是由微软联合创始人 Paul Allen 所开发的免费学术搜索引擎，你可以在 Semantic Scholar 上搜索到来自学术期刊、学术会议及学术机构的文献。在搜索学术文献的时候，你不但可以通过时间线快速找到具体年份范围的文献，还可以通过强大的筛选功能更加精准地找到自己所需要的文献。当然，Semantic Scholar 上的文献都是英文的，且更偏重于计算机科学及医学的范畴\
+**6、[Scimago Journal](https://www.scimagojr.com/index.php)**\
+关于SJR的Journal Rankings和Impact Factor哪个算法更好众说纷纭，目前来看无疑Impact Factor更权威，所有人都知道，各大杂志也都在用，投稿时参考Impact Factor肯定是最佳选择。不过SJR的好处在于，信息免费，网站简便易用。如果只是想了解一下本领域的杂志，比较一下不同杂志，或者想知道各杂志近几年影响力的走势，完全可以只看SJR网站。\
 
 ## 如果想上外网查文献和谷歌的童鞋，可以跳转到下面的链接，有蓝灯vpn可以下载翻墙
 [蓝灯](https://github.com/xwr96/lantern)
