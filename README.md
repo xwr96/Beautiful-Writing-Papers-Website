@@ -26,12 +26,12 @@ arxiv是一个收集物理学、数学、计算机科学与生物学论文预印
 这是一个对于大学生来说比较方便实用的网站，无论你身处校内还是校外，都可以通过该网站的文献资料辅助你的论文编写。更为方便的是，只要你在该站点右边留下你的邮箱号，你所选取的论文就能直接发送到你的邮箱。关键词搜索根据书名或者作者来筛选排序，除了可以选择期刊外，还可以尝试选择图书、报纸、学位论文、会议论文、专利、标注、视频等内容。\
 ![](https://github.com/xwr96/Beautiful-Writing-Papers-Website/blob/master/image/%E5%85%A8%E5%9B%BD%E5%9B%BE%E4%B9%A6%E9%A6%86.png)
 **11、[Open Access Library](http://www.oalib.com/)**\
-这个网站可以作为对上面网站的补充。\
+这个网站可以作为对上面网站的补充。
 
 ## 部分论文查询下载代码code的网站
 **1、[papers with code](https://paperswithcode.com/)**\
 这是一个非常神奇的网站，你要是下载了一篇顶会文章或是看到一篇文章，想要找这篇文章的代码，只要上这个网站，输入文章标题，看文章作者有没有上传代码到GitHub上，如果有的话可以直接连接到GitHub，然后就可以慢慢啃代码了。下面是这个网站的首页。你可以看到网站对应文章还有代码都罗列出来了，省了你一大步。\
-![]()\
+![](https://github.com/xwr96/Beautiful-Writing-Papers-Website/blob/master/image/papers%20with%20code.png)
 ## 如果想上外网查文献和谷歌的童鞋，可以跳转到下面的链接，有蓝灯vpn可以下载翻墙
 [蓝灯](https://github.com/xwr96/lantern)
 
