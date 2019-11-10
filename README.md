@@ -19,14 +19,18 @@ arxiv是一个收集物理学、数学、计算机科学与生物学论文预印
 **8、[arxiv-sanity](http://arxiv-sanity.com/)**\
 相对于上面的arxiv，这个网站提供了更便捷的功能。\
 **首先，arxiv-sanity在展示最新更新的文献时，提供了可读性更强的缩略图预览模式方便读者来快速预览，并在缩略图下方的绿色区域显示文献的abstract 。更重要的是，它可以让你根据自己的阅读兴趣对文献进行重新排序。比如这里有一篇关于对人体姿态估计的文献是你感兴趣的，点击右上角的' rank by tf-idf similarity to this'，文献列表会按照与这篇文章的相关度进行排序，接下来我们会看到arxiv上所有关于人体姿态识别的论文。这个功能是基于TF-DF算法来实现的，效果很好。（一种文档特征提取法，它是由Salton在1988 年提出。其中TF称为词频,  IDF称为反文档频率, 感兴趣的可以自己百度。）最后，再介绍一下“top recent”标签。这里面展示的是arxiv-sanity上被用户收藏最多的文献。这些文献也可以按照时间来筛选。即使你不是注册用户，你也可以浏览到大家都在收藏的文献。在页面上方可以看到，arxiv-sanity只展示machine learning的论文，如CV，CL等ML的分支领域，因为这是arxiv-sanity作者自己的研究领域。（对，这是人家闲暇时间写的）。作者已经把arxiv-sanity开源了，所以如果你想根据自己的研究领域新建自己的arxiv-sanity，可以去GitHub自己fork。GitHub搜索 karpathy/arxiv-sanity-preserver。**
-![]()
-
-
-这是一个对于大学生来说比较方便实用的网站，无论你身处校内还是校外，都可以通过该网站的文献资料辅助你的论文编写。更为方便的是，只要你在该站点右边留下你的邮箱号，你所选取的论文就能直接发送到你的邮箱。关键词搜索根据书名或者作者来筛选排序，除了可以选择期刊外，还可以尝试选择图书、报纸、学位论文、会议论文、专利、标注、视频等内容。
+![](https://github.com/xwr96/Beautiful-Writing-Papers-Website/blob/master/image/arxiv-santy.jpg)
+**9、[中国知网](https://www.cnki.net/)**\
+这个网站就不用说了，基本都是大学生没人必备，里面论文也有很多，本科生写毕业论文的话足够了。缺点是好多外文文献都没有。。。\
+**10、[全国图书馆参考联盟](http://www.ucdrs.superlib.net/)**\
+这是一个对于大学生来说比较方便实用的网站，无论你身处校内还是校外，都可以通过该网站的文献资料辅助你的论文编写。更为方便的是，只要你在该站点右边留下你的邮箱号，你所选取的论文就能直接发送到你的邮箱。关键词搜索根据书名或者作者来筛选排序，除了可以选择期刊外，还可以尝试选择图书、报纸、学位论文、会议论文、专利、标注、视频等内容。\
+![](https://github.com/xwr96/Beautiful-Writing-Papers-Website/blob/master/image/%E5%85%A8%E5%9B%BD%E5%9B%BE%E4%B9%A6%E9%A6%86.png)
+**11、[Open Access Library](http://www.oalib.com/)**\
+这个网站可以作为对上面网站的补充。\
 
 ## 如果想上外网查文献和谷歌的童鞋，可以跳转到下面的链接，有蓝灯vpn可以下载翻墙
 [蓝灯](https://github.com/xwr96/lantern)
 
 ## 最后
-如果觉得我的分享对你有用，那么就Star一下吧～同时，也欢迎大家关注我的微信公众号：计算机视觉cv。我会一如既往发布更多更好的文章给大家！一起学习，共同进步！
+如果觉得我的分享对你有用，那么就Star或是fork下吧～同时，也欢迎大家关注我的微信公众号：计算机视觉cv。我会一如既往发布更多更好的文章给大家！一起学习，共同进步！
 ![](https://github.com/xwr96/Beautiful-Writing-Papers-Website/blob/master/image/微信公众号.jpg)
